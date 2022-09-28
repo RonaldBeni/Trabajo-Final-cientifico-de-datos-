@@ -1,1 +1,3 @@
-# Trabajo-Final-cientifico-de-datos-
+# Trabajo-Final-cientifico-de-datos
+
+El siguiente trabajo consiste en dar respuesta a las preguntas de la empresa SpaceY que quiere anticipar la capacidad del cohete Falcon 9 para aterrizar con éxito sus misiones, ya que gran parte del ahorro se debe a que SpaceX puede reutilizar la primera etapa. Por lo tanto, si podemos determinar si la primera etapa aterrizará, podremos determinar el coste de un lanzamiento, y así poder abaratar costes en sus lanzamientos, viendo cuáles son las causas que hacen más probable que un cohete tras su lanzamiento pueda aterrizar con éxito. Para estas cuestiones como herramientas desarrollaremos un modelo predictivo de Machine Learning entrenado con las bases de datos recogidas por diferentes técnicas y de diferentes fuentes que se explicarán más adelante.
